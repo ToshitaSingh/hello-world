@@ -3,6 +3,7 @@
 #include<conio.h>
 int main()
 {
-  prinf("Hello world");
+  printf("Hello world");
+  printf("synxsidd");
   return 0;
 }
